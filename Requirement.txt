@@ -1,0 +1,2 @@
+streamlit as st
+pyodbc
